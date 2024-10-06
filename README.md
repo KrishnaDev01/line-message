@@ -1,1 +1,1 @@
-https://img.shields.io/badge/author-Kitfixbug-Dev.svg
+[![Author](https://img.shields.io/badge/author-kitfixbug-dev.svg)]
