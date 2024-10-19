@@ -3,7 +3,3 @@ http://localhost/?git=gitsend&token=โทเค็น&message=ข้อคว�
 
 # วิธีรับโทเค็น
 https://notify-bot.line.me/th/
-
-https://www.blood-strike.com/m/trickortreatinvite/th/?wtf=eyJjb2RlIjogIkFrMU8wbmhlckJFQm9ZbmEiLCAibW9kZSI6ICJVc2VBY3Rpdml0eUludml0ZUNvZGUifQ2equalequal2
-
-CJnq69Vuu5RE7gx
